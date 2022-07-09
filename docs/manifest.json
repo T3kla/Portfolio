@@ -1,27 +1,36 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/manui/Repos/Portfolio/docfx_project",
+  "source_base_path": "C:/Users/manui/Repos/Portfolio",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
-      "type": "Conceptual",
-      "source_relative_path": "api/index.md",
+      "type": "Resource",
       "output": {
-        ".html": {
-          "relative_path": "api/index.html",
-          "hash": "HPFTaLvbbhWaHEAaw967NVRC7YMT+rJSyfWupROS5UY="
+        "resource": {
+          "relative_path": "index.json"
         }
       },
-      "is_incremental": true,
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "01.education/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "01.education/intro.html",
+          "hash": "/dIEpUp+OetAiJCzDN6czkObyvEjUlLITIOrnLRh+fo="
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "api/toc.yml",
+      "source_relative_path": "01.education/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "COF9o/8fj1GQnaAwyVpeyOg9CaikqAf1hnfLVqQfulo="
+          "relative_path": "01.education/toc.html",
+          "hash": "8JBpm71cUXl6qDgX5t2UP2Jam9QL3lD5vmo4HZ1+RNU="
         }
       },
       "is_incremental": false,
@@ -29,23 +38,58 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
+      "source_relative_path": "02.projects/beatships.md",
       "output": {
         ".html": {
-          "relative_path": "articles/intro.html",
-          "hash": "Z5Khmww0NdRV0effDhDLgSMHPS1pAQ1I1MxLrMIV/24="
+          "relative_path": "02.projects/beatships.html",
+          "hash": "AL8eB7gIr6vQtgEdbMU07yaFggQ/PZt9MH3W7TxJ1CY="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "02.projects/cleanup.md",
+      "output": {
+        ".html": {
+          "relative_path": "02.projects/cleanup.html",
+          "hash": "8jMN0W/NNXyWehncFuKCeJpn++Da9aDzgZuxNNoE4DE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "02.projects/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "02.projects/intro.html",
+          "hash": "RUddZZYxHlXam8nd31M8KjuY1iylFSEVMCl0BzomgrA="
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "articles/toc.yml",
+      "source_relative_path": "02.projects/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "gbM0SnqKPKGV6ICv/gErJ41GMfxy45+x63QL6ADp7PE="
+          "relative_path": "02.projects/toc.html",
+          "hash": "ce9IO7IOv7BPskLh054WjtTWWn09DLVNBLmsZ7kdq+A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/tkl_logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/tkl_logo.png"
         }
       },
       "is_incremental": false,
@@ -57,10 +101,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "qWzl8vBk40uYQxrin1WtG9kzOxNsv2cZkJKpphURbAQ="
+          "hash": "WCnZ20hZ/1LSUQdUsiPtMg7N8zGQ9iffmsCDxTQOZSI="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,7 +113,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "MiMQtHE5x6FCnHt0nzsP5nEkXXbhG36tziHWqF8BfDI="
+          "hash": "SPykaKlQH33HbHbBW5H5GNpvbfzIVUWLC4TEDZg2IlI="
         }
       },
       "is_incremental": false,
@@ -88,8 +132,15 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 3
+          "total_file_count": 5,
+          "skipped_file_count": 5
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
@@ -102,8 +153,8 @@
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0

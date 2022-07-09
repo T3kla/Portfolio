@@ -1,0 +1,7 @@
+- name: Projects
+  href: intro.md
+  items:
+      - name: "CleanUp"
+        href: cleanup.md
+      - name: "BeatShips"
+        href: beatships.md

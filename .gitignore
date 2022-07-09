@@ -16,7 +16,6 @@
 .NuGet/
 artifacts/
 target/
-/**/_site/
 .vscode/
 .vs/
 
