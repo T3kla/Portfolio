@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "01.education/intro.html",
-          "hash": "M+4f7mNt15iRX4me+2cJElpoEgExuWx+35JLXkOp5QU="
+          "hash": "4EPb+cEEAPVPyByLq0PrNp1mdxN2UMxR951Q5lB21/k="
         }
       },
       "is_incremental": false,
@@ -38,11 +38,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "02.projects/battlefinder.md",
+      "output": {
+        ".html": {
+          "relative_path": "02.projects/battlefinder.html",
+          "hash": "+ggh61o2ZU2H+Qi7t0L4cFVNlSRbkRNLsBlKELFEz6w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
       "source_relative_path": "02.projects/beatships.md",
       "output": {
         ".html": {
           "relative_path": "02.projects/beatships.html",
-          "hash": "ou5GNTgVecqs3SKNFcGo2018DqqxLCRvjGxCvNAs19c="
+          "hash": "KUK5S+4L0xyWIrK9wMCBe9LWZiPkmwi/CXNH/JzoXjw="
         }
       },
       "is_incremental": false,
@@ -54,7 +69,19 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/cleanup.html",
-          "hash": "tv9OffjXgpky0BV+Z93EHclhJA2gQEA7hVvM6Ks5L48="
+          "hash": "f3B+hfxHoxv+QXLnfP3vYQdElwPF2WwlYGmBaWjd6bQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "02.projects/fallinglights.md",
+      "output": {
+        ".html": {
+          "relative_path": "02.projects/fallinglights.html",
+          "hash": "+Yf10BPQKEYABchOqc5lMceT1Gtr91y84MZoZJVDbDE="
         }
       },
       "is_incremental": false,
@@ -66,7 +93,31 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/intro.html",
-          "hash": "vD3VQTlUv/joxSbaIuYHCcAJzWrcOPXO+FmLUnBawQ0="
+          "hash": "yoLrIYtCJ0HpUiTVdaTltAVKHAxCAozzxBDMPyG2zxg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "02.projects/maskerade.md",
+      "output": {
+        ".html": {
+          "relative_path": "02.projects/maskerade.html",
+          "hash": "xljbUbA3XyIRWiB4itSMsQZ/ZpU9hhMacxD6CLy2560="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "02.projects/metaclassicgames.md",
+      "output": {
+        ".html": {
+          "relative_path": "02.projects/metaclassicgames.html",
+          "hash": "AhIqv5+G1quhr8WCx8GOweDFFTtNzUEL4odhXI3iP3o="
         }
       },
       "is_incremental": false,
@@ -78,7 +129,283 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/toc.html",
-          "hash": "Rw1hyDDrCY6xGcsheoP9R3mQD2YC5ShYp1vY6RCc+qo="
+          "hash": "fiTvbASQ5KWQWYXm9eN91DiPUnAUVZFmsg64cxTW2Y0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "02.projects/valheimmodding.md",
+      "output": {
+        ".html": {
+          "relative_path": "02.projects/valheimmodding.html",
+          "hash": "LATQQPl1LTyap+4IbJzsatXrt/vyNXoXpTT8zEdZ9J4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_editor_0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_editor_0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_editor_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_editor_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_editor_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_editor_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_editor_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_editor_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_editor_4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_editor_4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_load_0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_load_0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/beat_load_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/beat_load_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_home_0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_home_0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_home_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_home_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_home_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_home_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_minigame.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_minigame.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_splash.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_splash.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_super_0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_super_0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_super_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_super_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/cleanup_super_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/cleanup_super_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/fallinglights_ads.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/fallinglights_ads.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/fallinglights_gameplay.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/fallinglights_gameplay.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/fallinglights_splash.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/fallinglights_splash.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/fallinglights_store.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/fallinglights_store.jpg"
         }
       },
       "is_incremental": false,
@@ -124,7 +451,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "qAXuXHeC5atIfXH1idEvJjUPXxi9BocK4hseh+WFIvc="
+          "hash": "R6gJoEeM4K5SpDDhAG0LA2jzWG9b8FFLhGw1Mj+F+Ko="
         }
       },
       "is_incremental": false,
@@ -143,8 +470,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 5,
-          "skipped_file_count": 5
+          "total_file_count": 10,
+          "skipped_file_count": 7
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

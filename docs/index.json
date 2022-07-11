@@ -1,23 +1,48 @@
 {
   "01.education/intro.html": {
     "href": "01.education/intro.html",
-    "title": "Education | T3kla",
-    "keywords": "Education"
+    "title": "Degree in Interactive Products Design | U-Tad | T3kla",
+    "keywords": "Degree in Interactive Products Design | U-Tad Sep 2013 – Jun 2018 General purpose education focused on tools and knowledge for game design and development. Mathematics, physics, geometry and programming (C#, Java, Lua) Game Design and Quality Assurance fundamentals Videogame Expert | U-Tad Sep 2013 – Jun 2017 Title given to students that have worked +300 hours in a videogame project. Professional industry-standard coaching during 2.5 years of development Teamwork and agile methodologies (Scrum, Lean) Masters degree in Game Programming | U-Tad Oct 2021 – Current Centred in C++, Unreal Engine and the creation of custom game engines with OpenGL. Creation of a custom graphics engine with C++ and OpenGL Multi-thread optimisations, asset loading, networking, shaders and rendering ‎"
+  },
+  "02.projects/battlefinder.html": {
+    "href": "02.projects/battlefinder.html",
+    "title": "Battlefinder | T3kla",
+    "keywords": "Battlefinder ‎"
   },
   "02.projects/beatships.html": {
     "href": "02.projects/beatships.html",
     "title": "BeatShips | T3kla",
-    "keywords": "BeatShips"
+    "keywords": "BeatShips ‎"
   },
   "02.projects/cleanup.html": {
     "href": "02.projects/cleanup.html",
     "title": "CleanUp | T3kla",
-    "keywords": "CleanUp"
+    "keywords": "CleanUp ‎"
+  },
+  "02.projects/fallinglights.html": {
+    "href": "02.projects/fallinglights.html",
+    "title": "Falling Lights | T3kla",
+    "keywords": "Falling Lights ‎"
   },
   "02.projects/intro.html": {
     "href": "02.projects/intro.html",
-    "title": "Projects | T3kla",
-    "keywords": "Projects"
+    "title": "Maskerade | Lead Unreal Dev | Spiky Duck | T3kla",
+    "keywords": "Maskerade | Lead Unreal Dev | Spiky Duck Oct 2021 – Current Survival horror with high graphical focus in a cabaret setting. Editor modules with Slate UMG Meta Classic Games | Senior Unity Network Engineer | Heroes Games Studios Apr 2022 – Current Suit of classic games turned to be multiplayer and implementing NFT technology. Web3 user validation using ChainSafe SDK and MetaMask Matchmaking via Microsoft Azure PlayFab SDK Replication & RCP with Mirror Valheim Modding | Freelance Unity Dev | Unity Mar 2021 – Oct 2021 Open source modding of the popular computer game Valheim. Source code alteration with IL Transpilers and Reflection External asset side-loading Battlefinder | Unity Dev | Need4Oxygen Feb 2020 – Mar 2021 Open source project aiming to port popular role game Pathfinder 2e to the virtual world. Dynamic mesh generation for user generated content UI optimizations to support thousands of interactable and dynamic objects Custom saving system to reduce file size while including heavy Unity-Terrain data Editor tools for automatic UI anchor placement Falling Lights | Unity Dev | Phantom Interactive Nov 2019 – Feb 2020 Simple and fast arcade game where you dodge falling stars. Google ads via AdMob plugin and store via Google Play Services App bundle optimisations for minimal binary size Play Store publishing Beatships | Junior Unity Dev | Need4Oxygen Sep 2017 – Sep 2019 Rhythm based shoot'em up in which your ship shoots to the beat of the song. Player-usable level editor featuring music focused tools SteamWorks SDK integration (validation, cloud save, achievements…) CleanUp | Junior Unity Dev | Need4Oxygen Jan 2015 – Jun 2017 Heavily narrative time manager influenced by Papers Please. Dependency injection Scriptable objects Pooling ‎"
+  },
+  "02.projects/maskerade.html": {
+    "href": "02.projects/maskerade.html",
+    "title": "Maskerade | T3kla",
+    "keywords": "Maskerade ‎"
+  },
+  "02.projects/metaclassicgames.html": {
+    "href": "02.projects/metaclassicgames.html",
+    "title": "Meta Classic Games | T3kla",
+    "keywords": "Meta Classic Games ‎"
+  },
+  "02.projects/valheimmodding.html": {
+    "href": "02.projects/valheimmodding.html",
+    "title": "Valheim Modding | T3kla",
+    "keywords": "Valheim Modding ‎"
   },
   "index.html": {
     "href": "index.html",

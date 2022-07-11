@@ -1,7 +1,17 @@
 - name: Projects
   href: intro.md
   items:
-      - name: "CleanUp"
-        href: cleanup.md
+      - name: "Maskerade"
+        href: maskerade.md
+      - name: "Meta Classic Games"
+        href: metaclassicgames.md
+      - name: "Valheim Modding"
+        href: valheimmodding.md
+      - name: "Battlefinder"
+        href: battlefinder.md
+      - name: "Falling Lights"
+        href: fallinglights.md
       - name: "BeatShips"
         href: beatships.md
+      - name: "CleanUp"
+        href: cleanup.md
