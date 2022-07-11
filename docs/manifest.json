@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/manui/Repos/Portfolio",
+  "source_base_path": "C:/Repos/Portfolio",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "01.education/intro.html",
-          "hash": "/dIEpUp+OetAiJCzDN6czkObyvEjUlLITIOrnLRh+fo="
+          "hash": "M+4f7mNt15iRX4me+2cJElpoEgExuWx+35JLXkOp5QU="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "01.education/toc.html",
-          "hash": "8JBpm71cUXl6qDgX5t2UP2Jam9QL3lD5vmo4HZ1+RNU="
+          "hash": "2AJ1QfHHkzDAUv72XlkddvW1gNTk/T5gAuPmciLrvlo="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/beatships.html",
-          "hash": "AL8eB7gIr6vQtgEdbMU07yaFggQ/PZt9MH3W7TxJ1CY="
+          "hash": "ou5GNTgVecqs3SKNFcGo2018DqqxLCRvjGxCvNAs19c="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/cleanup.html",
-          "hash": "8jMN0W/NNXyWehncFuKCeJpn++Da9aDzgZuxNNoE4DE="
+          "hash": "tv9OffjXgpky0BV+Z93EHclhJA2gQEA7hVvM6Ks5L48="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/intro.html",
-          "hash": "RUddZZYxHlXam8nd31M8KjuY1iylFSEVMCl0BzomgrA="
+          "hash": "vD3VQTlUv/joxSbaIuYHCcAJzWrcOPXO+FmLUnBawQ0="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/toc.html",
-          "hash": "ce9IO7IOv7BPskLh054WjtTWWn09DLVNBLmsZ7kdq+A="
+          "hash": "Rw1hyDDrCY6xGcsheoP9R3mQD2YC5ShYp1vY6RCc+qo="
         }
       },
       "is_incremental": false,
@@ -101,7 +101,18 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "WCnZ20hZ/1LSUQdUsiPtMg7N8zGQ9iffmsCDxTQOZSI="
+          "hash": "rMXsShIVg0aXVq4nDzb84mcRnN10+SxIiIyeU56BMWg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/CV_ManuelSegura.pdf",
+      "output": {
+        "resource": {
+          "relative_path": "resources/CV_ManuelSegura.pdf"
         }
       },
       "is_incremental": false,
@@ -113,7 +124,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "SPykaKlQH33HbHbBW5H5GNpvbfzIVUWLC4TEDZg2IlI="
+          "hash": "qAXuXHeC5atIfXH1idEvJjUPXxi9BocK4hseh+WFIvc="
         }
       },
       "is_incremental": false,
