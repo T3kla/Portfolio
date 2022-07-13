@@ -49,15 +49,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "02.projects/beatships.md",
       "output": {
         ".html": {
           "relative_path": "02.projects/beatships.html",
-          "hash": "KUK5S+4L0xyWIrK9wMCBe9LWZiPkmwi/CXNH/JzoXjw="
+          "hash": "9Y+ft0SUQ1oWqz8gX/XtSyrr3sibmgREXV12nuUhTPk="
         }
       },
       "is_incremental": false,
@@ -69,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/cleanup.html",
-          "hash": "f3B+hfxHoxv+QXLnfP3vYQdElwPF2WwlYGmBaWjd6bQ="
+          "hash": "e3XMOoGE1HTb1xdb6MyTd2lg9Inw/Wt8LR3ITUWOU7s="
         }
       },
       "is_incremental": false,
@@ -81,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/fallinglights.html",
-          "hash": "+Yf10BPQKEYABchOqc5lMceT1Gtr91y84MZoZJVDbDE="
+          "hash": "VTdWYWq6c1HPQSY4cLDFTk2sfP+eM96Vq0XeJN3ltDo="
         }
       },
       "is_incremental": false,
@@ -105,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "02.projects/maskerade.html",
-          "hash": "xljbUbA3XyIRWiB4itSMsQZ/ZpU9hhMacxD6CLy2560="
+          "hash": "xnKIE1FL+/XXbecHBDQrnKJuBfSIE5WUePMlZkyj0RA="
         }
       },
       "is_incremental": false,
@@ -303,17 +300,6 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/cleanup_logo.png",
-      "output": {
-        "resource": {
-          "relative_path": "images/cleanup_logo.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "images/cleanup_minigame.png",
       "output": {
         "resource": {
@@ -413,6 +399,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/maskerade_columns.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/maskerade_columns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/maskerade_frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/maskerade_frame.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/maskerade_library_0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/maskerade_library_0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/maskerade_library_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/maskerade_library_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/maskerade_wall_0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/maskerade_wall_0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/tkl_logo.png",
       "output": {
         "resource": {
@@ -471,7 +512,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 10,
-          "skipped_file_count": 7
+          "skipped_file_count": 9
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

@@ -1,9 +1,11 @@
 # Falling Lights
 
-![](../images/fallinglights_splash.jpg)
-![](../images/fallinglights_store.jpg)
-![](../images/fallinglights_gameplay.jpg)
-![](../images/fallinglights_ads.jpg)
+<p align ="center">
+    <img width="24%" id="padded" src="../images/fallinglights_splash.jpg">
+    <img width="24%" id="padded" src="../images/fallinglights_store.jpg">
+    <img width="24%" id="padded" src="../images/fallinglights_gameplay.jpg">
+    <img width="24%" id="padded" src="../images/fallinglights_ads.jpg">
+</p>
 
 &emsp;
 
