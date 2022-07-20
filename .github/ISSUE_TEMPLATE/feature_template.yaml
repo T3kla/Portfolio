@@ -1,0 +1,47 @@
+name: Feature
+description: File a feature request
+title: "[Feature] Template"
+labels: ["enhancement", "triage"]
+body:
+    - type: textarea
+      id: description
+      attributes:
+          label: Description
+          description: A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+      validations:
+          required: true
+
+    - type: input
+      id: solution
+      attributes:
+          label: Possible Solution
+          description: Short description of how you think the feature should be like.
+      validations:
+          required: false
+
+    - type: input
+      id: alternative
+      attributes:
+          label: Possible Alternative
+          description: Short description of an "easy to implement" short term alternative.
+      validations:
+          required: false
+
+    - type: dropdown
+      id: priority
+      attributes:
+          label: Priority
+          options:
+              - High
+              - Medium
+              - Low
+      validations:
+          required: true
+
+    - type: textarea
+      id: notes-attachments
+      attributes:
+          label: Notes and Attachments
+          description: Any additional and helpful infomation.
+      validations:
+          required: false

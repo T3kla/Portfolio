@@ -1,0 +1,77 @@
+name: Bug
+description: File a bug report
+title: "[Bug] Template"
+labels: ["bug", "triage"]
+body:
+    - type: input
+      id: commit-branch
+      attributes:
+          label: Commit and Branch
+          description: "Commit and branch where this was attempted. (Fork: right click commit, select Copy Commit Info)"
+          placeholder: ex. Develop - a135c4e - DressingStage
+      validations:
+          required: true
+
+    - type: textarea
+      id: steps
+      attributes:
+          label: Steps to Reproduce
+          description: Step by step, be as precise as you can
+          placeholder: "1. Step 1\n2. Step 2\n3. ..."
+      validations:
+          required: true
+
+    - type: input
+      id: expected
+      attributes:
+          label: Expected Results
+          description: What should have happened.
+      validations:
+          required: false
+
+    - type: input
+      id: actual
+      attributes:
+          label: Actual Results
+          description: What actually happened.
+      validations:
+          required: false
+
+    - type: dropdown
+      id: severity
+      attributes:
+          label: Severity
+          options:
+              - Crash
+              - Game Breaking
+              - Annoying
+      validations:
+          required: true
+
+    - type: dropdown
+      id: priority
+      attributes:
+          label: Priority
+          options:
+              - High
+              - Medium
+              - Low
+      validations:
+          required: true
+
+    - type: textarea
+      id: notes-attachments
+      attributes:
+          label: Notes and Attachments
+          description: Any additional and helpful infomation.
+      validations:
+          required: false
+
+    - type: textarea
+      id: logs
+      attributes:
+          label: Log Output
+          description: Any relevant log output.
+          render: shell
+      validations:
+          required: false
